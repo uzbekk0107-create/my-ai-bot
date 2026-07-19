@@ -1,4 +1,7 @@
 import os
+# Kutubxonalarni majburiy o'rnatish buyrug'i
+os.system("pip install pyTelegramBotAPI google-generativeai")
+
 import telebot
 from google import generativeai as genai
 
